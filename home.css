@@ -54,3 +54,47 @@ nav>h1{
         max-width: 100%;
         height: auto;
     }
+    #maindiv{
+        display: flex;
+        justify-content: space-between;
+    }
+    #featured{
+        height: 620px;
+        width: 1000px;
+        /* background-color: black; */
+        padding-left: 100px;
+    }
+    
+    #navbar{
+        height: 50px;
+        width: 100%;
+        border-bottom: 2px;
+        background-color: rgb(248, 244, 244);
+    }
+        .logo-container {
+            height: 48px;
+           width: 120px;
+           padding-left: 10px;
+           padding-top: 8px;
+        }
+    
+        .logo {
+            max-width: 100%;
+            height: auto;
+        }
+        #featured2{
+            height: 800px;
+            width: 600px;
+            display: flex;
+            /* background-color: black; */
+            justify-content: space-between;
+        }
+    
+        #content1{
+            
+         padding-top: 30px;
+        }
+    
+        #content2{
+            padding-top: 30px;
+        }
